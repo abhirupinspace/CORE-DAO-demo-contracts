@@ -1,4 +1,4 @@
-# Core Smart Contract Templates 🚀
+# Core Smart Contract Templates 
 
 Welcome to the **Core DAO Smart Contract Starter Templates** repository!  
 This repo is designed for beginners deploying their **first smart contracts on Core**.  
